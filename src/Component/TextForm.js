@@ -39,7 +39,7 @@ export default function TextForm(props) {
           UpperCase
         </button>
         <button className="btn btn-primary mx-2" onClick={lowerCase}>
-          LowerCase
+          LowerCase Go
         </button>
         <button className="btn btn-danger mx-2" onClick={cleartext}>
           Clear
