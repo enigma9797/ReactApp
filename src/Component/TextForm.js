@@ -42,7 +42,7 @@ export default function TextForm(props) {
           LowerCase Go
         </button>
         <button className="btn btn-danger mx-2" onClick={cleartext}>
-          Clear
+          Clear To
         </button>
       </div>
       ;
